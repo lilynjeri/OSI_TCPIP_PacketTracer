@@ -40,7 +40,7 @@ This project shows I can:
 It demonstrates actionable skills in cybersecurity, cloud security, or SOC analysis, not just theoretical knowledge.
 
 ## Screenshots
-(Add images from `images/` folder here)
+See`images/` folder
 
 ## Optional: Full Report
 The full assignment PDF is available in the `reports/` folder for those who want the details.
